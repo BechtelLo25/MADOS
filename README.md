@@ -3,6 +3,7 @@
 - this is my game im working on/passion project.
 - still in rough development
 # ROADMAP
+---
 - TREASURE HUNTING GAME
 1. create game loop
 2. display player character
