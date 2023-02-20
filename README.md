@@ -9,8 +9,9 @@
 2. display player character ✅
 3. control player character ✅
 4. display background tiles ✅
-5. display objects (working on very soon) ⏩
-6. complete the game!! ❌
+5. add collision to certian tiles ✅
+6. display objects (working on very soon) ⏩
+7. complete the game!! ❌
 ---
 - ACTION RPG GAME
 1. create enemies ❌
