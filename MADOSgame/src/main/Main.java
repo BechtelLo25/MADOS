@@ -14,6 +14,8 @@ public class Main {
 		GamePanel gamePanel = new GamePanel();
 		window.add(gamePanel);
 		
+		// Logan was here
+
 		window.pack();
 		
 		window.setLocationRelativeTo(null);
